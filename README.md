@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgarg7599&label=Profile%20views&color=0e75b6&style=flat" alt="dgarg7599" /> </p>
 
-- 🔭 I’m currently working on a **MERN Stack project**
+- 🔭 I’m currently working on a **Spring Boot project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Android & Web Development**
 
